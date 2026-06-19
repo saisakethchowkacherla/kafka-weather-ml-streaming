@@ -36,4 +36,5 @@ Linear Regression
 Metric: MAE
 
 ## Video Demo
-PASTE YOUR VIDEO LINK HERE
+Video Demo:
+https://drive.google.com/file/d/1NrWDLOQdcp7LACZcKv7kBYyYTzssuBN0/view?usp=drivesdk
