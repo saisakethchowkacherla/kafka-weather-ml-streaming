@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv39/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Faust data
+weather-stream-app-data/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+temp/
+tmp/
+
+# Docker
+*.pid
